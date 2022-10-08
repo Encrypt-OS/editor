@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=editor
+GenericName=Text editor
+Comment=View and edit text files
+Exec=com.encryptos.editor %u
+Icon=/usr/share/icons/hicolor/scalable/apps/com.encryptos.editor.svg
+Terminal=false
+Actions=new-empty-window;
+MimeType=text/plain
+Categories=GTK;Utility;TextEditor;
+Keywords=Text;Editor;
+
+[Desktop Action new-empty-window]
+Name=New Empty Window
+Exec=com.encryptos.editor
+Icon=list-add

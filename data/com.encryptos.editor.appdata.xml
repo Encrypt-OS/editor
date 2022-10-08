@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+  <id>com.encryptos.editor</id>
+  <metadata_license>CC0</metadata_license>
+  <name>editor</name>
+  <summary>A light-weight text editor</summary>
+  <description>
+    <p>Fast and efficient text editor</p>
+  </description>
+  <launchable type="desktop-id">com.encryptos.editor.desktop</launchable>
+  <url type="homepage">http://github.com/Encrypt-OS/editor</url>
+</component>
