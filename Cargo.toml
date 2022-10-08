@@ -6,7 +6,7 @@ description = "A fast and efficient text editor for EncryptOS"
 license-file = "LICENSE"
 license = "GPL-3.0"
 readme = "README.MD"
-edition = "2022"
+edition = "2021"
 
 [dependencies]
 gdk = "0.12.1"
